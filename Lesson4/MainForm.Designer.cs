@@ -45,9 +45,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(227, 117);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(215, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(261, 13);
+            this.label1.Size = new System.Drawing.Size(432, 20);
             this.label1.TabIndex = 1;
             this.label1.Text = "Lesson 4. Делегаты, события, лямбда-выражения";
             // 
@@ -55,11 +56,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 279);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOk);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "ITEA. Урок 4";
             this.ResumeLayout(false);
             this.PerformLayout();
 
