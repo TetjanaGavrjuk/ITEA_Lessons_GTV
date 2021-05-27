@@ -12,6 +12,8 @@ namespace Lesson4
 {
     public partial class MainForm : Form
     {
+        delegate void DlgNmProc(int id);
+
         public MainForm()
         {
             InitializeComponent();
@@ -21,6 +23,11 @@ namespace Lesson4
         {
             MessageBox.Show("Пока!");
             Close();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

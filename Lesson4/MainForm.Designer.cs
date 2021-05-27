@@ -61,6 +61,7 @@
             this.Controls.Add(this.btnOk);
             this.Name = "MainForm";
             this.Text = "ITEA. Урок 4";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
