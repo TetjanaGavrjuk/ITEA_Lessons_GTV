@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF _001", "EF _001\EF _001.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events04", "04_2_Events\Events04.csproj", "{437D3E07-6C56-4E09-810F-BF54866F253C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_JSON_001", "Lesson7_JSON_001\Lesson7_JSON_001.csproj", "{C27B1DE7-0F49-41B5-BBDC-963124007BA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{437D3E07-6C56-4E09-810F-BF54866F253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437D3E07-6C56-4E09-810F-BF54866F253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437D3E07-6C56-4E09-810F-BF54866F253C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27B1DE7-0F49-41B5-BBDC-963124007BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27B1DE7-0F49-41B5-BBDC-963124007BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27B1DE7-0F49-41B5-BBDC-963124007BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27B1DE7-0F49-41B5-BBDC-963124007BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
